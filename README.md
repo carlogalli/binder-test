@@ -1,2 +1,2 @@
-# binder-test
+# A test of Binder with julia
  
